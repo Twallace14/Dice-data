@@ -1,6 +1,6 @@
 Shyzu back end
 
-This is the Back end sever whihc will hash passwords for security and connect ro psql database
+This is the Back end sever whihc will hash passwords for security and connect to psql database
 
 tyrone Wallace
 
